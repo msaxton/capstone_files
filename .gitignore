@@ -1,2 +1,5 @@
 #  Ignore folders
 data/
+abstracts/
+general_corpus/
+noun_corpus/
