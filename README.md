@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains files for Micah Saxton's DU MLIS Capstone. The purpose of the project is to articulate "Best Practices for Topic Modeling." Toward that end, a number of different topic models are built on a corpus of articles from the *Journal of Biblical Literature* (*JBL*) each with different parameter settings. Then, each model is evaluated on the coherence of its topics, its ability to group similar documents together, and its ability to provide useful information retrieval.
+This repository contains supplementary materials for Micah Saxton's DU MLIS Capstone. The purpose of the project is to articulate "Best Practices for Topic Modeling." Toward that end, a number of different topic models are built on a corpus of articles from the *Journal of Biblical Literature* (*JBL*) each with different parameter settings. Then, each model is evaluated on the coherence of its topics, its ability to group similar documents together, and its ability to provide useful information retrieval.
 
 ## Contents
 
