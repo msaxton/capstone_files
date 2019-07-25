@@ -1,8 +1,8 @@
-# Discussion and Conclusions
+# Discussion
 
 ## The Number of Topics in a Topic Model
 
-The number of topics assigned to a topic model has a significant effect on the properties of the topic model. On the one hand, assigning more topics to a model allows the model group patterns of word co-occurrence in more nuanced ways. This allows for more specific, but possibly redundant topics. On the other hand, since each topic is distributed as a probability across each document (however low the probability may be), and since those probabilities must total 1.0, it follows that the more topics that are assigned, the lower, on average, those probabilities will be. How does this affect topic coherence, clustering, and information retrieval?
+The number of topics assigned to a topic model has a significant effect on the properties of the topic model. On the one hand, assigning more topics to a model allows the model to group patterns of word co-occurrence in more nuanced ways. This allows for more specific, but possibly redundant topics. On the other hand, since each topic is distributed as a probability across each document (however low the probability may be), and since those probabilities must total 1.0, it follows that the more topics that are assigned, the lower, on average, those probabilities will be. How does this affect topic coherence, clustering, and information retrieval?
 
 ### Topic Coherence
 

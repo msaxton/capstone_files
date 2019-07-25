@@ -1,6 +1,6 @@
 #  Ignore folders
-data/
-abstracts/
+ocr/
+metadata/
 general_corpus/
 noun_corpus/
-.ippynb_checkpoints
+
